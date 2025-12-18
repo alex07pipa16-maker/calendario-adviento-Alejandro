@@ -51,4 +51,8 @@ document.getElementById("giftContent").innerHTML = `<h3>${gift}</h3>`;
 
 
 new bootstrap.Modal(document.getElementById('giftModal')).show();
+
 }
+
+
+
